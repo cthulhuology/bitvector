@@ -35,6 +35,7 @@ We can also discover the differences between two vectors
 
 If two bitvectors are the same the same/2 function will return true.
 
+NB: ALL LISTS SHOULD BE SORTED PRIOR TO ALL CALLS!
 
 MIT License
 
